@@ -18,6 +18,7 @@ public class SocialNetworkServiceImpTODO implements SocialNetworkService {
 
     @Override
     public Set<Person> getPeople() {
+        return new HashSet<>();
 
     }
 
